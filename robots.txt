@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wulceaker.github.io/sitemap
+Sitemap: https://wulceaker.github.io/app/sitemap
+Sitemap: https://wulceaker.github.io/assets/sitemap
+Sitemap: https://wulceaker.github.io/css/sitemap
+Sitemap: https://wulceaker.github.io/includes/sitemap
+Sitemap: https://wulceaker.github.io/item/sitemap
+Sitemap: https://wulceaker.github.io/src/sitemap
